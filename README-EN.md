@@ -2,6 +2,18 @@
 
 > 🇷🇺 **Russian version:** [README.md](README.md)
 
+## ⚖️ Legal disclaimer (read first)
+
+This material is of an **informational and technical nature**: it is a personal guide to configuring the INCY client (routing profile) on iPhone. It **is not advertising and does not promote** any VPN service, contains no call to use one, and provides no access to third-party services.
+
+The author is aware that the legislation of the Russian Federation regulates the distribution of information about circumvention tools:
+- **Federal Law No. 8-FZ "On Information, Information Technologies and Protection of Information"** (Art. 15) — blocking of pages containing "information on methods and means of ensuring access to information resources whose access is restricted within the territory of the Russian Federation";
+- **RKN Order No. 196 dated October 17, 2024** — criteria for prohibited information, including scientific and technical data about VPN services used to circumvent blocks;
+- **Federal Law No. 281-FZ dated July 31, 2025** — amendments to the Code of Administrative Offences: advertising of VPN services (Art. 14.2) and deliberate search for extremist materials (Art. 13.53);
+- **Federal Law No. 282-FZ dated July 31, 2025** — use of circumvention tools when committing a crime is an aggravating circumstance (Criminal Code Art. 63).
+
+The author **does not call for circumventing blocks** established in accordance with the legislation of the Russian Federation. Use of this material is at the reader's own discretion and risk, in accordance with the current legislation of the Russian Federation. As of the date of publication, the mere fact of using a VPN by an individual is not subject to administrative liability under the Code of Administrative Offences. This text is not legal advice; for an up-to-date opinion, consult a lawyer.
+
 <p align="center">
   <img src="incy-routing-qr.png" width="360" alt="QR — import the routing profile into INCY">
 </p>
