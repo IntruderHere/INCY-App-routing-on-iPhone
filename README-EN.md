@@ -15,7 +15,7 @@ The author is aware that the legislation of the Russian Federation regulates the
 The author **does not call for circumventing blocks** established in accordance with the legislation of the Russian Federation. Use of this material is at the reader's own discretion and risk, in accordance with the current legislation of the Russian Federation. As of the date of publication, the mere fact of using a VPN by an individual is not subject to administrative liability under the Code of Administrative Offences. This text is not legal advice; for an up-to-date opinion, consult a lawyer.
 
 <p align="center">
-  <img src="incy-routing-qr.png" width="360" alt="QR v4 — import the routing profile into INCY">
+  <img src="incy-routing-qr.png" width="360" alt="QR v5 — import the routing profile into INCY">
 </p>
 
 **Scan this QR with the INCY camera — the "Socials via VPN" profile will be added and activated immediately.** Details in [Step 3](#step-3-add-the-ready-made-routing-profile-key-step) below.
